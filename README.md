@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 FYBSC CS A 
-HII
+
+HII EVERYONE 
